@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessKiller", "ProcessKiller\ProcessKiller.csproj", "{879B8C54-0D58-4A83-9F9C-CA4C7AD2E694}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessKillerTests", "ProcessKillerTests\ProcessKillerTests.csproj", "{4BF112AD-97CD-4A62-AE24-97E1AB7B9730}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{879B8C54-0D58-4A83-9F9C-CA4C7AD2E694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{879B8C54-0D58-4A83-9F9C-CA4C7AD2E694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{879B8C54-0D58-4A83-9F9C-CA4C7AD2E694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{879B8C54-0D58-4A83-9F9C-CA4C7AD2E694}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BF112AD-97CD-4A62-AE24-97E1AB7B9730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BF112AD-97CD-4A62-AE24-97E1AB7B9730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BF112AD-97CD-4A62-AE24-97E1AB7B9730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BF112AD-97CD-4A62-AE24-97E1AB7B9730}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A508DAA-512F-4B92-80AF-FD705318C9B0}
+	EndGlobalSection
+EndGlobal
